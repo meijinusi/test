@@ -1,0 +1,14 @@
+.DS_Store
+bin/
+target/
+tmp/
+work/
+Servers/
+java/
+apache-tomcat-7.0.109/
+eclipse/
+.metadata/
+.metadata.default/
+tomcat/
+pleiades-2023-12-java-win-64bit-jre_20240218/
+*.zip
