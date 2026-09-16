@@ -1,1 +1,6 @@
-.DS_Store/nbin//ntarget//ntmp//nwork//nServers//n
+.DS_Store
+bin/
+target/
+tmp/
+work/
+Servers/
