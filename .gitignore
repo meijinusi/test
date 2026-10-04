@@ -1,7 +1,48 @@
-java/
-pleiades-2023-12-java-win-64bit-jre_20240218/
-tomcat/
-apache-tomcat-7.0.109/
+
+HELP.md
+
+.gradle
+build/
+
+!gradle/wrapper/gradle-wrapper.jar
+
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Eclipse / environment ###
+Servers/
+bin/
+target/
 eclipse/
 .metadata/
-.metadata.default/
+pleiades-2023-12-java-win-64bit-jre_20240218/
+
+### Other ###
+.DS_Store
+tmp/
+work/
